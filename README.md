@@ -1,5 +1,5 @@
 <h1 align="center" style="color: cyan">
-  Hi, I'm Mindware. 🧙🏻‍♂
+  Hi, I'm Andrés. Welcome to my github profile. 🧙🏻‍♂
 </h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mindware/mindware/output/github-contribution-grid-snake-dark.svg" />
